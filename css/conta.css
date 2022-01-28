@@ -1,0 +1,11 @@
+.conta{
+    margin: 7% 10%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.conta_elementos{
+    font-family: 'Jaldi', sans-serif;
+    font-size: 3.5rem;
+    padding: 1rem 5rem;
+}

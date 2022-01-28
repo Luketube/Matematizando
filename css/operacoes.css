@@ -1,0 +1,5 @@
+.operacoes{
+    margin: 2% 10%;
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,5 @@
+.dificuldade{
+    margin: 0 25%;
+    display: flex;
+    justify-content: space-around;
+}
