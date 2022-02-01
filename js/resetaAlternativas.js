@@ -26,3 +26,5 @@ function resetaAlternativas(){
         alternativaTerceira.classList.add("btn-outline-primary")
     }
 }
+
+start.addEventListener("click", resetaAlternativas);
